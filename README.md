@@ -1,6 +1,6 @@
 # Spring Boot Demo项目
 
-- 采用Swagger进行接口的代码自动生成
+- 采用OpenAPI Generator进行API的代码自动生成
 - SpringSecurity
 - SpringBoot
 - MongoDB
@@ -12,3 +12,11 @@
 
 - Jenkins
 - Docker
+
+## 使用说明
+
+先执行
+
+```xml
+mvn clean compile
+```
